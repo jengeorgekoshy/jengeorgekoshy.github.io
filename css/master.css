@@ -68,6 +68,7 @@
     margin: 0 auto;
     text-align: left;
   }
-.image{
+img .image{
   margin:10px;
+  width:1000px;
 }
